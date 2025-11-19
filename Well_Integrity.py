@@ -109,7 +109,7 @@ def main():
         "TITLE": "Well Integrity Visualization Tool",
         "SUBTITLE": "University of Kirkuk - College of Engineering - Petroleum Department",
         "DEVELOPERS": "Developed by: Bilal Rabah & Omar Yilmaz",
-        "SUPERVISOR": "Supervised by: [EDIT THIS TEXT]",  # <--- Change name here
+        "SUPERVISOR": "Supervised by: Mohammed Adel",
         "DATE": "Date: November 2025",
         "ICON": "",
 
@@ -257,4 +257,5 @@ def main():
         with c2: st.warning("**Instructions:**\n1. Upload .las file.\n2. Select caliper fingers.\n3. Adjust depth range.\n4. Click **Generate Visualization**.")
 
 if __name__ == "__main__":
+
     main()
