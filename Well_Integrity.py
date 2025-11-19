@@ -109,7 +109,7 @@ def main():
         "TITLE": "Well Integrity Visualization Tool",
         "SUBTITLE": "University of Kirkuk - College of Engineering - Petroleum Department",
         "DEVELOPERS": "Developed by: Bilal Rabah & Omar Yilmaz",
-        "SUPERVISOR": "Supervised by: Mohammed Adel",
+        "SUPERVISOR": "Supervised by: Dr.Mohammed Adel",
         "DATE": "Date: November 2025",
         "ICON": "",
 
@@ -259,3 +259,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
